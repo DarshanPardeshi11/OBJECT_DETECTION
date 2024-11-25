@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMAGES</folder>
+	<filename>cat.15.jpg</filename>
+	<path>C:\PYTHON\OBJ_DETECT\IMAGES\cat.15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>10</ymin>
+			<xmax>390</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

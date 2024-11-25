@@ -1,0 +1,4 @@
+train: IMAGES/train
+val: IMAGES/test
+nc: 2
+names: ['car', 'cat']

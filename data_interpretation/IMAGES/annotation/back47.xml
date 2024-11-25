@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMAGES</folder>
+	<filename>back47.jpg</filename>
+	<path>C:\PYTHON\OBJ_DETECT\IMAGES\back47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>20</ymin>
+			<xmax>204</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
